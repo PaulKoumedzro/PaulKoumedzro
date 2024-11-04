@@ -13,7 +13,7 @@ Motivated technology enthusiast with a strong passion for cybersecurity, seeking
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Management and Reporting        | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management and Reporting        | <a href="https://tinyurl.com/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
 | Linux Privilege Escalation Techniques Testing | <a href="https://google.com">Detection Lab</a>|
 | Web application  Penetration Testing          | <a href="https://tinyurl.com/wapt-lab">Web Application Testing Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
