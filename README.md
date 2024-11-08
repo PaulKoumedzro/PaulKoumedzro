@@ -1,5 +1,10 @@
 # Hello, I'm Paul Koumedzro
 <a href="https://www.linkedin.com/in/paul-koumedzro/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</br>
+</br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/PaulKoumedzro.png" alt="Your Image Badge" />
+
+
 
 
 I am a passionate technology enthusiast,inspired by the power of innovation and committed to tackling complex challenges with creative solutions.
