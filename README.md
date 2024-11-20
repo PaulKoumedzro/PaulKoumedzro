@@ -21,7 +21,7 @@ Motivated technology enthusiast with a strong passion for cybersecurity, seeking
 | Vulnerability Management and Reporting        | <a href="https://tinyurl.com/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
 | Linux Privilege Escalation Techniques Testing | <a href="https://google.com">Detection Lab</a>|
 | Web application  Penetration Testing          | <a href="https://tinyurl.com/wapt-lab">XSS Lab</a> </br></br> <a href="https://tinyurl.com/SQL-injection-Lab">SQLi Lab</a>
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Active Directory Security Assessment    | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
