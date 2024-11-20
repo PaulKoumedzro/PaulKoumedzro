@@ -22,8 +22,10 @@ Motivated technology enthusiast with a strong passion for cybersecurity, seeking
 | Linux Privilege Escalation Techniques Testing | <a href="https://google.com">Detection Lab</a>|
 | Web application  Penetration Testing          | <a href="https://tinyurl.com/wapt-lab">XSS Lab</a> </br></br> <a href="https://tinyurl.com/SQL-injection-Lab">SQLi Lab</a>
 | Active Directory Security Assessment    | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Penetration Test                   | SOC Automation Lab|
+| Social Engineering Awareness | SOC Automation Lab|
+|  Wireless Network Penetration Testing         | Lab |
+| Password Cracking and Authentication Hardening | LAB |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
