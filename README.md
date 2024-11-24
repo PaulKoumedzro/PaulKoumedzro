@@ -61,5 +61,9 @@ Motivated technology enthusiast with a strong passion for cybersecurity, seeking
 </div>
 
 ## Projects
-- Detection Lab
+- Web application Security Testing
 - SOC Automation Project
+- Network-Penetration-Testing
+- Active-Directory-Security-Assessment
+- Password Cracking and Authentication Hardening
+- Social Engineering Awareness
