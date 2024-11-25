@@ -21,7 +21,7 @@ Motivated technology enthusiast with a strong passion for cybersecurity, seeking
 | Vulnerability Management and Reporting        | <a href="https://tinyurl.com/Vulnerability-Management-Lab">Vulnerability Management Lab</a>|
 | Linux Privilege Escalation Techniques Testing | <a href="https://google.com">Detection Lab</a>|
 | Web application  Penetration Testing          | <a href="https://tinyurl.com/wapt-lab">XSS Lab</a> </br></br> <a href="https://tinyurl.com/SQL-injection-Lab">SQLi Lab</a>
-| Active Directory Security Assessment    | SOC Automation Lab|
+| Active Directory Security Assessment    | <a href="https://tinyurl.com/AD-Security-Testing-lab">Active Directory Security Lab</a>|
 | Network Penetration Test                   | <a href="https://tinyurl.com/Network-pentest-lab">Network Pentest Lab</a>|
 | Social Engineering Awareness | SOC Automation Lab|
 |  Wireless Network Penetration Testing         | Lab |
