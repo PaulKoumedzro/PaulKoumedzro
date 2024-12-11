@@ -23,7 +23,7 @@ Motivated technology enthusiast with a strong passion for cybersecurity, seeking
 | Active Directory Security Assessment    | <a href="https://tinyurl.com/Active-Directory-Lab">Active Directory Security Lab</a>|
 | OWASP Juice Shop              | <a href="https://tinyurl.com/owasp-10-Juice-Lab">OWASP juice Shop Lab</a>|
 | Social Engineering Awareness | SOC Automation Lab|
-| Password Cracking and Authentication Hardening | LAB |
+| Password Cracking and Authentication Hardening | <a href="https://tinyurl.com/Password-sec-lab">Password Security Lab</a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
