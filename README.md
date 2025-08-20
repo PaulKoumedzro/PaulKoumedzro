@@ -18,7 +18,7 @@ Motivated technology enthusiast with a strong passion for cybersecurity, seeking
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis with YARA        | <a href="https://tinyurl.com/Malware-analysis-with-YAR)">YARA For Malware Analysis Lab</a>|
+| Malware Analysis with YARA        | <a href="https://tinyurl.com/YARA-for-Malware">YARA For Malware Analysis Lab</a>|
 | Web application  Penetration Testing          | <a href="https://tinyurl.com/wapt-lab">XSS Lab</a> </br></br> <a href="https://tinyurl.com/SQL-injection-Lab">SQLi Lab</a>
 | Active Directory Security Assessment    | <a href="https://tinyurl.com/Active-Directory-Lab">Active Directory Security Lab</a>|
 | OWASP Juice Shop              | <a href="https://tinyurl.com/owasp-10-Juice-Lab">OWASP juice Shop Lab</a>|
