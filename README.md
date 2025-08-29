@@ -1,10 +1,6 @@
 # Hello, I'm Paul Koumedzro
 <a href="https://www.linkedin.com/in/paul-koumedzro/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </br>
-</br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/PaulKoumedzro.png" alt="Your Image Badge" />
-
-
 
 
 I am a passionate technology enthusiast,inspired by the power of innovation and committed to tackling complex challenges with creative solutions.
@@ -52,9 +48,10 @@ Motivated technology enthusiast with a strong passion for cybersecurity, seeking
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-PenTest%2B-DC143C?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys%20VM-005C99?&style=for-the-badge&logo=qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
