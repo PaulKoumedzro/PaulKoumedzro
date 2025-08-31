@@ -7,7 +7,7 @@ I am a passionate technology enthusiast,inspired by the power of innovation and 
 
 
 ## Objective
-Motivated technology enthusiast with a strong passion for cybersecurity, seeking to transition into the field as a Junior Penetration Tester. Eager to apply my skills in identifying vulnerabilities and enhancing digital security measures, while continuously learning and contributing to a dynamic team. Committed to staying updated on industry trends and best practices to protect organizations from emerging threats.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
