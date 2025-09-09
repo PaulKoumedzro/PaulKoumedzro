@@ -18,8 +18,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SSH Brute-Force Investigation with Splunk          | <a href="https://tinyurl.com/splunk-investigations">SSH brute-force investigation Lab</a> 
 | Phishing Email Analysis   | <a href="https://tinyurl.com/phishing-Email-analysis">Phishing Email Lab</a>|
 | OWASP Juice Shop              | <a href="https://tinyurl.com/Malicious-Document-Analysis">Malicious Document Analysis Lab</a>|
-| Social Engineering Awareness | SOC Automation Lab|
-| Password Cracking and Authentication Hardening | <a href="https://tinyurl.com/Password-sec-lab">Password Security Lab</a> |
+| MITRE ATT&CK-Data Exfiltration | <a href="https://tinyurl.com/Malicious-Document-Analysis">MITRE ATT&CK - Data Exfiltration Lab</a>|
+
 
 ## Tools
 
