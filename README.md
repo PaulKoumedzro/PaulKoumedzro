@@ -45,7 +45,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-PenTest%2B-DC143C?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Qualys%20VM-005C99?&style=for-the-badge&logo=qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys%20VMDR-005C99?&style=for-the-badge&logo=qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
