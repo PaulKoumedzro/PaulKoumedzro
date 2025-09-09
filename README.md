@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Malware Analysis with YARA        | <a href="https://tinyurl.com/YARA-for-Malware">YARA For Malware Analysis Lab</a>|
 | SSH Brute-Force Investigation with Splunk          | <a href="https://tinyurl.com/splunk-investigations">SSH brute-force investigation Lab</a> 
 | Phishing Email Analysis   | <a href="https://tinyurl.com/phishing-Email-analysis">Phishing Email Lab</a>|
-| OWASP Juice Shop              | <a href="https://tinyurl.com/Malicious-Document-Analysis">Malicious Document Analysis Lab</a>|
+| Malicious Document Analysis            | <a href="https://tinyurl.com/Malicious-Document-Analysis">Malicious Document Analysis Lab</a>|
 | MITRE ATT&CK-Data Exfiltration | <a href="https://tinyurl.com/Malicious-Document-Analysis">MITRE ATT&CK - Data Exfiltration Lab</a>|
 
 
@@ -50,9 +50,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Web application Security Testing
-- SOC Automation Project
-- Network-Penetration-Testing
-- Active-Directory-Security-Assessment
-- Password Cracking and Authentication Hardening
-- Social Engineering Awareness
+- Malware Analysis with YARA 
+- SSH Brute-Force Investigation with Splunk
+- Phishing Email Analysis
+- Malicious Document Analysis
+- MITRE ATT&CK-Data Exfiltration
+
