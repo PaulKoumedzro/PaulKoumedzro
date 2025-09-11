@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SSH Brute-Force Investigation with Splunk          | <a href="https://tinyurl.com/splunk-investigations">SSH brute-force investigation Lab</a> 
 | Phishing Email Analysis   | <a href="https://tinyurl.com/phishing-Email-analysis">Phishing Email Lab</a>|
 | Malicious Document Analysis            | <a href="https://tinyurl.com/Malicious-Document-Analysis">Malicious Document Analysis Lab</a>|
-| MITRE ATT&CK-Data Exfiltration | <a href="https://tinyurl.com/Malicious-Document-Analysis">MITRE ATT&CK - Data Exfiltration Lab</a>|
+| Data Exfiltration | <a href="https://tinyurl.com/Data-Exfiltration">Data Exfiltration Lab</a>|
 
 
 ## Tools
