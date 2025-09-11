@@ -54,5 +54,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SSH Brute-Force Investigation with Splunk
 - Phishing Email Analysis
 - Malicious Document Analysis
-- MITRE ATT&CK-Data Exfiltration
+- Data Exfiltration
 
