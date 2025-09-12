@@ -3,12 +3,11 @@
 </br>
 
 
-I am a passionate technology enthusiast,inspired by the power of innovation and committed to tackling complex challenges with creative solutions.
+I'm a cybersecurity specialist focused on protecting digital environments through strategic defense and continuous learning. My path has been shaped by rigorous academic training and practical experience, equipping me with a strong foundation in security principles, threat analysis, and incident response. I approach each challenge with analytical precision and a commitment to excellence, driven by a passion for evolving with the cybersecurity landscape.
 
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+With a passion for cybersecurity developed through diverse educational paths and hands-on experiences, my aim is to showcase practical projects that highlight my robust skills in threat detection and response. My journey led me to seek a transition into the cybersecurity field, specifically targeting a role in a Security Operations Domain.
 ## Skills
 
 
