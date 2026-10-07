@@ -8,10 +8,10 @@ I'm a cybersecurity specialist focused on protecting digital environments throug
 
 ## Objective
 With a passion for cybersecurity developed through diverse educational paths and hands-on experiences, my aim is to showcase practical projects that highlight my robust skills in threat detection and response. My journey led me to seek a transition into the cybersecurity field, specifically targeting a role in a Security Operations Domain.
-## Skills
+## Project
 
 
-| Skill                                         | Associated Project         |
+| Lab                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Malware Analysis with YARA        | <a href="https://tinyurl.com/YARA-for-Malware">YARA For Malware Analysis Lab</a>|
 | SSH Brute-Force Investigation with Splunk          | <a href="https://tinyurl.com/splunk-investigations">SSH brute-force investigation Lab</a> 
