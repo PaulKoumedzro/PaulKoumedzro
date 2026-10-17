@@ -56,7 +56,7 @@ With a passion for cybersecurity developed through diverse educational paths and
 
 # Tools
 
-### Network
+   ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -73,7 +73,51 @@ With a passion for cybersecurity developed through diverse educational paths and
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
+# SKILLS
+
+### 📊 SIEM
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![SPL](https://img.shields.io/badge/-SPL-65A637?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/-Dashboards-0072b1?style=for-the-badge)
+![Alerts](https://img.shields.io/badge/-Alerts-C0392B?style=for-the-badge)
+
+### 🛡️ Security Operations
+![Alert Triage](https://img.shields.io/badge/-Alert_Triage-1F618D?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/-Log_Analysis-1F618D?style=for-the-badge)
+![Incident Investigation](https://img.shields.io/badge/-Incident_Investigation-1F618D?style=for-the-badge)
+![Threat Hunting](https://img.shields.io/badge/-Threat_Hunting-1F618D?style=for-the-badge)
+
+### 📐 Frameworks
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE_ATT%26CK-B03A2E?style=for-the-badge)
+![Cyber Kill Chain](https://img.shields.io/badge/-Cyber_Kill_Chain-B03A2E?style=for-the-badge)
+![CIA Triad](https://img.shields.io/badge/-CIA_Triad-B03A2E?style=for-the-badge)
+![NIST 800-53](https://img.shields.io/badge/-NIST_800--53-B03A2E?style=for-the-badge)
+
+### 🌐 Network
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge)
+![Zeek](https://img.shields.io/badge/-Zeek-2E4053?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-5D6D7E?style=for-the-badge)
+![DNS](https://img.shields.io/badge/-DNS-5D6D7E?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/-DHCP-5D6D7E?style=for-the-badge)
+
+### 🦠 Malware Analysis
+![Static Analysis](https://img.shields.io/badge/-Static_Analysis-6C3483?style=for-the-badge)
+![Dynamic Analysis](https://img.shields.io/badge/-Dynamic_Analysis-6C3483?style=for-the-badge)
+![YARA](https://img.shields.io/badge/-YARA-6C3483?style=for-the-badge)
+![REMnux](https://img.shields.io/badge/-REMnux-6C3483?style=for-the-badge)
+![FlareVM](https://img.shields.io/badge/-FlareVM-6C3483?style=for-the-badge)
+
+### 📧 Email Security
+![Phishing Detection](https://img.shields.io/badge/-Phishing_Detection-D68910?style=for-the-badge)
+![Header Analysis](https://img.shields.io/badge/-Header_Analysis-D68910?style=for-the-badge)
+![URL De-obfuscation](https://img.shields.io/badge/-URL_De--obfuscation-D68910?style=for-the-badge)
+![M365](https://img.shields.io/badge/-M365-D83B01?style=for-the-badge)
+
+### 💻 Virtualization
+![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+# Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
