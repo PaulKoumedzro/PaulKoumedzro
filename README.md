@@ -7,7 +7,7 @@ I'm a cybersecurity specialist focused on protecting digital environments throug
 
 
 # Objective
-With a passion for cybersecurity developed through diverse educational paths and hands-on experience, I aim to showcase practical projects that highlight my strong skills in threat detection and response. My journey led me to transition into cybersecurity, specifically targeting a role in a Security Operations Domain.
+With a passion for cybersecurity shaped by diverse education and hands-on experience, I aim to showcase practical projects that highlight my strong threat detection and response skills. My journey led me to transition into cybersecurity, specifically targeting a role in a Security Operations Domain.
 # Project
 
 
@@ -22,7 +22,7 @@ With a passion for cybersecurity developed through diverse educational paths and
 
 # Network & Security: TCP/IP, Ports, and Protocols
 
-*Port ranges: 0–1023 well-known (system) · 1024–49151 registered · 49152–65535 dynamic/ephemeral. Rule of thumb: close or filter anything you don't need, and prefer encrypted protocols.*
+A list of commonly used ports and protocols in networking by security  and network professionals to assist with configuration or investigation.
 
 | Protocol | Port(s) | Transport | Purpose | Security note |
 | --- | --- | --- | --- | --- |
@@ -109,10 +109,6 @@ With a passion for cybersecurity developed through diverse educational paths and
 <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
-## Projects
-- Malware Analysis with YARA 
-- SSH Brute-Force Investigation with Splunk
-- Phishing Email Analysis
-- Malicious Document Analysis
-- Data Exfiltration
+## Contact
+<b>Email:</b> <div font-color="white">paulkoumedzro@gmail.com</div>  </br><b>Tel:</b> +1 (612) 434-7961
 
